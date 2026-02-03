@@ -26,7 +26,8 @@ STORE_CARRY:MVI A,01H
 STA 4301H
 HLT
 ### Output:
-<img width="1529" height="594" alt="image" src="https://github.com/user-attachments/assets/35adc794-b25f-47f3-9030-7a102a856736" />
+<img width="319" height="437" alt="image" src="https://github.com/user-attachments/assets/dccb9a34-e75a-4e3a-aaa5-2eda14338890" />
+<img width="315" height="440" alt="image" src="https://github.com/user-attachments/assets/c6302a0c-d105-4361-b0da-a843287ce391" />
 <img width="306" height="462" alt="image" src="https://github.com/user-attachments/assets/28905b1d-8582-4e8c-a94a-96b9c715819c" />
 
 ### For Subtraction (Considering Greater Number):
@@ -51,8 +52,9 @@ STA 4300H
 HLT
 
 ### Output:
+<img width="305" height="441" alt="image" src="https://github.com/user-attachments/assets/61f0edb3-55f9-4362-98e8-924f9dd63fd0" />
 
-<img width="1462" height="597" alt="image" src="https://github.com/user-attachments/assets/f753b492-5301-409c-968a-247a554bb990" />
+<img width="308" height="392" alt="image" src="https://github.com/user-attachments/assets/188a5962-f64b-47b2-8384-cdd08da5ab1d" />
 
 <img width="298" height="365" alt="image" src="https://github.com/user-attachments/assets/be8e1bcb-9f01-4e83-b73f-01b3e8163c27" />
 
@@ -74,6 +76,7 @@ JNZ LOOP
 STA 4300H
 HLT
 ### Output:
+<img width="316" height="460" alt="image" src="https://github.com/user-attachments/assets/f69b5bcf-92dc-43e8-8f94-3f383c4479e2" />
 <img width="1445" height="590" alt="image" src="https://github.com/user-attachments/assets/9706f499-61bf-4e08-9253-056afb277aad" />
 <img width="316" height="388" alt="image" src="https://github.com/user-attachments/assets/e659f91c-4a82-4fc4-bc2f-b11ebf6e4bc6" />
 
@@ -100,6 +103,7 @@ STA 3301H
 HLT
 
 ### Output:
+<img width="314" height="472" alt="image" src="https://github.com/user-attachments/assets/ae0ed239-3918-4696-8850-84eb0a507e04" />
 <img width="1441" height="756" alt="image" src="https://github.com/user-attachments/assets/cb5dc58f-9c1a-4afd-87a5-b2b83f960df4" />
 <img width="311" height="451" alt="image" src="https://github.com/user-attachments/assets/b64feb15-eda8-4d3e-8901-6d99675bcaa6" />
 ## Result:
