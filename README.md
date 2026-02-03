@@ -57,7 +57,8 @@ HLT
 
 <img width="308" height="392" alt="image" src="https://github.com/user-attachments/assets/188a5962-f64b-47b2-8384-cdd08da5ab1d" />
 
-<img width="298" height="365" alt="image" src="https://github.com/user-attachments/assets/be8e1bcb-9f01-4e83-b73f-01b3e8163c27" />
+<img width="1434" height="635" alt="image" src="https://github.com/user-attachments/assets/5113393b-a646-442f-8a8e-788678f55438" />
+
 
 ### For Multiplication:
 1.	Load the first number from memory location 4200H into register A.
