@@ -28,7 +28,8 @@ HLT
 ### Output:
 <img width="319" height="437" alt="image" src="https://github.com/user-attachments/assets/dccb9a34-e75a-4e3a-aaa5-2eda14338890" />
 <img width="315" height="440" alt="image" src="https://github.com/user-attachments/assets/c6302a0c-d105-4361-b0da-a843287ce391" />
-<img width="306" height="462" alt="image" src="https://github.com/user-attachments/assets/28905b1d-8582-4e8c-a94a-96b9c715819c" />
+<img width="1484" height="795" alt="image" src="https://github.com/user-attachments/assets/091f8955-b6ee-4cb0-885b-c30823525585" />
+
 
 ### For Subtraction (Considering Greater Number):
 1.	Load the first number from memory location 4200H into register A.
